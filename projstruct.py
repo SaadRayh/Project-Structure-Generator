@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-ProjStruct - Universal Project Scaffolder
-Creates project structure from tree diagram - files created empty.
-"""
-
 import os
 import subprocess
 import sys
